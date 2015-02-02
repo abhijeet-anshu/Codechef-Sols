@@ -1,2 +1,4 @@
 *.out
+in.txt
+out.txt
 partial_*
